@@ -1,0 +1,47 @@
+{
+  "navbar": {
+    "home": "Accueil",
+    "about": "À propos",
+    "menu": "Menu",
+    "gallery": "Galerie",
+    "events": "Événements",
+    "contact": "Contact",
+    "book": "Réserver",
+    "lang_text": "Français",
+    "lang_logo": "/france.png",
+    "cart": "La Carte",
+    "reservation": "Réservation"
+  },
+  "about": {
+    "title": "Bienvenue au Salama Marrakech",
+    "content_1": "Le Salama est né d'un rêve : créer un lieu où la tradition marocaine rencontre la culture contemporaine, où chaque plat raconte une histoire, et où chaque repas devient un moment de partage inoubliable.",
+    "content_2": "Le Salama est un lieu essentiel à votre séjour à Marrakech et il est sûr de ravir tous les sens dans une soirée colorée et vibrante de cuisine et de divertissement marocains.",
+    "content_3": "Nous sommes ouverts tous les soirs et serions honorés de vous accueillir !",
+    "button_book": "Réserver"
+  },
+  "events": {
+    "title": "Vivez la magie : Découvrez nos spectacles !",
+    "content_1": "Pour rendre l'expérience encore plus spéciale, un spectacle de danseuses du ventre a lieu tous les soirs, ajoutant une couche supplémentaire d'excitation à votre soirée.",
+    "content_2": "Que vous vous détendiez autour d'un verre, que vous dégustiez une cuisine délicieuse ou que vous profitiez des divertissements, Le Salama est un lieu incontournable de votre séjour à Marrakech, un véritable festin pour les sens et pour l'esprit."
+  },
+  "contact": {
+    "title": "Le Salama Marrakech restaurant",
+    "open": "Ouvert : 12h00 PM - 02h00 AM"
+  },
+  "accordion": {
+    "title_1": "Restaurant",
+    "title_2": "Culinaire",
+    "title_3": "Sunset",
+    "title_4": "Belly Dance",
+    "desc_1": "Savourez une fusion de saveurs locales et de délices du monde.",
+    "desc_2": "Dînez sous une toile d'étoiles, où chaque bouchée est céleste.",
+    "desc_3": "Admirez les couleurs époustouflantes du ciel tout en vous régalant, où chaque coucher de soleil est une célébration.",
+    "desc_4": "Vivez une soirée enchanteresse avec des performances live et une vie nocturne vibrante."
+  },
+  "culinary": {
+    "title": "Ambiance unique, véritable expérience culinaire",
+    "content_1": "Le Salama offre une expérience culinaire marocaine inoubliable au cœur de Jemaa El Fna, où vous pouvez déjeuner ou dîner tôt tout en profitant d'une vue imprenable.",
+    "content_2": "Le bar sur le toit est l'endroit idéal pour siroter des cocktails préparés par des experts, profiter de la musique et de l'ambiance animée alors que le soleil se couche sur Marrakech.",
+    "button_book": "Réserver"
+  }
+}

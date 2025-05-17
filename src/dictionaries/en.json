@@ -1,0 +1,47 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "menu": "Menu",
+    "gallery": "Gallery",
+    "events": "Events",
+    "contact": "Contact",
+    "book": "Book",
+    "lang_text": "English",
+    "lang_logo": "/english.png",
+    "cart": "Menu",
+    "reservation": "Book"
+  },
+  "about": {
+    "title": "Welcome To Le Salama Marrakech",
+    "content_1": "Le Salama was born from a dream: to create a place where Moroccan tradition meets contemporary culture, where every dish tells a story, and where every meal becomes an unforgettable moment of sharing.",
+    "content_2": "Le Salama is essential to your stay in Marrakech and is sure to delight all the senses in a colorful and vibrant evening of Moroccan food and entertainment.",
+    "content_3": "We are open every evening and would be honored to welcome you!",
+    "button_book": "Book"
+  },
+  "events": {
+    "title": "Experience the Magic: Discover Our Shows!",
+    "content_1": "To make the experience even more special, a belly dancer show takes place every night, adding an extra layer of excitement to your evening.",
+    "content_2": "Whether you’re relaxing with drinks, indulging in delicious food, or enjoying the entertainment, Le Salama is a must-visit during your stay in Marrakech, offering a feast for both the senses and the soul."
+  },
+  "contact": {
+    "title": "Le Salama Marrakech restaurant",
+    "open": "Open daily from 12 to 2:00 PM"
+  },
+  "accordion": {
+    "title_1": "Restaurant",
+    "title_2": "Culinary",
+    "title_3": "Sunset",
+    "title_4": "Belly Dance",
+    "desc_1": "Savor a fusion of local flavors and global delights.",
+    "desc_2": "Dine under a canvas of stars, where every bite feels celestial.",
+    "desc_3": "Witness the sky's breathtaking hues while indulging in culinary delights, where every sunset feels like a celebration.",
+    "desc_4": "Experience an enchanting evening of live performances and vibrant nightlife."
+  },
+  "culinary": {
+    "title": "A Unique Ambiance, Real culinary Experience",
+    "content_1": "Le Salama offers an unforgettable Moroccan culinary experience in the heart of Jemaa El Fna, where you can enjoy lunch or an early dinner while soaking in an amazing view.",
+    "content_2": "The vibrant rooftop sky bar is the perfect place to sip on expertly crafted cocktails, enjoy music and the lively vibe as the sun sets over Marrakech.",
+    "button_book": "Book"
+  }
+}
