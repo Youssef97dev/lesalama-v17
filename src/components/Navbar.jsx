@@ -192,7 +192,7 @@ const Navbar = () => {
                   <Link href="/">{"Home"}</Link>
                 </li>
                 <li className="pb-3 border-b border-bg_navbar">
-                  <Link href="#about">{"About"}</Link>
+                  <Link href="/restaurant">{"Restaurant"}</Link>
                 </li>
 
                 <li className="pb-3 border-b border-bg_navbar">

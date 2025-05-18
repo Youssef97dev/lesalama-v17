@@ -1,9 +1,8 @@
 "use client";
 import { useState, useEffect } from "react";
 import { BounceLoader } from "react-spinners";
-import Hero from "./Hero";
-import Buttons from "./Buttons";
-import Navbar from "./Navbar";
+import Buttons from "@/components/Buttons";
+import Container from "./Container";
 
 const Loader = () => {
   const [isClient, setIsClient] = useState(false);
@@ -18,14 +17,14 @@ const Loader = () => {
     <>
       {isClient ? (
         <div className="relative">
-          <Hero />
+          <Container />
           <div className="fixed bottom-5 left-0 w-full block lg:hidden z-10">
             <Buttons />
           </div>
         </div>
       ) : (
-        <div className="fixed inset-0 z-40 flex items-center justify-center bg-primary">
-          <BounceLoader color="#d7b072" size={100} />
+        <div className="fixed inset-0 z-40 flex items-center justify-center bg-background">
+          <BounceLoader color="#152604" size={100} />
         </div>
       )}
     </>
