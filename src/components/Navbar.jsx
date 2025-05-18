@@ -196,7 +196,7 @@ const Navbar = () => {
                 </li>
 
                 <li className="pb-3 border-b border-bg_navbar">
-                  <Link href="#events">{"Events"}</Link>
+                  <Link href="/shows">{"Shows"}</Link>
                 </li>
                 <li className="pb-3 border-b border-bg_navbar">
                   <Link href="#" target="_blank">
