@@ -24,10 +24,6 @@
     "content_1": "To make the experience even more special, a belly dancer show takes place every night, adding an extra layer of excitement to your evening.",
     "content_2": "Whether you’re relaxing with drinks, indulging in delicious food, or enjoying the entertainment, Le Salama is a must-visit during your stay in Marrakech, offering a feast for both the senses and the soul."
   },
-  "contact": {
-    "title": "Le Salama Marrakech restaurant",
-    "open": "Open daily from 12 to 2:00 PM"
-  },
   "accordion": {
     "title_1": "Restaurant",
     "title_2": "Culinary",
@@ -43,5 +39,14 @@
     "content_1": "Le Salama offers an unforgettable Moroccan culinary experience in the heart of Jemaa El Fna, where you can enjoy lunch or an early dinner while soaking in an amazing view.",
     "content_2": "The vibrant rooftop sky bar is the perfect place to sip on expertly crafted cocktails, enjoy music and the lively vibe as the sun sets over Marrakech.",
     "button_book": "Book"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "firstname": "First Name",
+    "lastname": "Last Name",
+    "email": "Email",
+    "phone": "Phone Number",
+    "send": "Send",
+    "open": "Open daily from 12 to 2:00 PM"
   }
 }
