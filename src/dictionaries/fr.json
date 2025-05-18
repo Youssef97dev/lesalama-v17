@@ -1,10 +1,11 @@
 {
   "navbar": {
     "home": "Accueil",
-    "about": "À propos",
+    "restaurant": "Restaurant",
     "menu": "Menu",
     "gallery": "Galerie",
-    "events": "Événements",
+    "shows": "Spéctacles",
+    "culinary": "Culinaire",
     "contact": "Contact",
     "book": "Réserver",
     "lang_text": "Français",

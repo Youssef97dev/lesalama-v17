@@ -189,28 +189,23 @@ const Navbar = () => {
                 className="space-y-8 text-secondary leading-[25px] text-[14px] font-light"
               >
                 <li className="pb-3 border-b border-bg_navbar">
-                  <Link href="/">{"Home"}</Link>
+                  <Link href="/">{t("navbar.home")}</Link>
                 </li>
                 <li className="pb-3 border-b border-bg_navbar">
-                  <Link href="/restaurant">{"Restaurant"}</Link>
+                  <Link href="/restaurant">{t("navbar.restaurant")}</Link>
                 </li>
 
                 <li className="pb-3 border-b border-bg_navbar">
-                  <Link href="/shows">{"Shows"}</Link>
+                  <Link href="/shows">{t("navbar.shows")}</Link>
                 </li>
                 <li className="pb-3 border-b border-bg_navbar">
-                  <Link href="/culinary">{"Culinary"}</Link>
+                  <Link href="/culinary">{t("navbar.culinary")}</Link>
                 </li>
                 <li className="pb-3 border-b border-bg_navbar">
-                  <Link href="#" target="_blank">
-                    Menu
-                  </Link>
+                  <Link href="/contact">{t("navbar.contact")}</Link>
                 </li>
                 <li className="pb-3 border-b border-bg_navbar">
-                  <Link href="/contact">Contact</Link>
-                </li>
-                <li className="pb-3 border-b border-bg_navbar">
-                  <Link target="_blank" href="/gallery">{`Gallery`}</Link>
+                  <Link href="/gallery">{t("navbar.gallery")}</Link>
                 </li>
               </ul>
             </div>
