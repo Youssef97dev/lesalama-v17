@@ -3,8 +3,8 @@ import Navbar from "@/components/Navbar";
 import { Analytics } from "@vercel/analytics/react";
 
 export const metadata = {
-  title: "Le Salama",
-  description: "Le Salama Marrakech Rooftop & Sky Bar",
+  title: "Le Salama Marrakech",
+  description: "Rooftop & Sky Bar",
 };
 
 export default function RootLayout({ children }) {
