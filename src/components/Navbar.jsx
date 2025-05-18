@@ -199,6 +199,9 @@ const Navbar = () => {
                   <Link href="/shows">{"Shows"}</Link>
                 </li>
                 <li className="pb-3 border-b border-bg_navbar">
+                  <Link href="/culinary">{"Culinary"}</Link>
+                </li>
+                <li className="pb-3 border-b border-bg_navbar">
                   <Link href="#" target="_blank">
                     Menu
                   </Link>
