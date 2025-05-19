@@ -26,13 +26,13 @@ const Hero = () => {
       {/* Overlay */}
       <div className="absolute inset-0 bg-black bg-opacity-30 hidden lg:block"></div>
 
-      <div className="absolute top-1/3 left-1/2 transform -translate-x-1/2 text-white z-40">
+      <div className="absolute opacity-60 lg:opacity-100 top-20 left-1/2 transform -translate-x-1/2 text-white z-40">
         <Image
-          src={"/logo-salama-humberger-white.png"}
+          src={"/logo-salama-humberger-insta.png"}
           width={1000}
           height={1000}
           alt="Logo Le Salama"
-          className={`w-56`}
+          className={`w-32 lg:w-40`}
         />
       </div>
     </div>
