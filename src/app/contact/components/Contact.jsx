@@ -10,8 +10,8 @@ import {
 const Contact = () => {
   return (
     <div className="w-full flex flex-col justify-start items-start gap-5 px-5 lg:px-10 py-10 text-primary">
-      <h1 className="text-[23px] lg:text-[40px] lg:leading-[48px] leading-[36px] font-azahra">
-        {`Contact`}
+      <h1 className="text-[20px] tracking-wider lg:text-[40px] lg:leading-[48px] leading-[36px] font-azahra">
+        <b>{`Contact`}</b>
       </h1>
       <div className="w-full flex lg:flex-row flex-col justify-start items-start gap-5">
         <div className="w-full flex flex-col justify-start items-start">
