@@ -116,7 +116,8 @@ const Navbar = () => {
           </div>*/}
           <div className="w-full lg:flex hidden justify-end items-center  text-white cursor-pointer">
             <Link
-              href="#"
+              href="https://www.sevenrooms.com/explore/lesalamamarrakech/reservations/create/search/"
+              target="_blank"
               className={`tracking-[0.2em] font-light text-[14px] leading-[34px] py-2 px-4  rounded ${
                 scrolled
                   ? "text-secondary bg-transparent border border-secondary hover:bg-secondary hover:text-white"
@@ -200,6 +201,14 @@ const Navbar = () => {
                 </li>
                 <li className="pb-3 border-b border-bg_navbar">
                   <Link href="/culinary">{t("navbar.culinary")}</Link>
+                </li>
+                <li className="pb-3 border-b border-bg_navbar hidden lg:block">
+                  <Link
+                    href="https://www.lesalamamarrakech.com/menu/"
+                    target="_blank"
+                  >
+                    {t("navbar.cart")}
+                  </Link>
                 </li>
                 <li className="pb-3 border-b border-bg_navbar">
                   <Link href="/contact">{t("navbar.contact")}</Link>

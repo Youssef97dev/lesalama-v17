@@ -8,7 +8,7 @@ const Buttons = () => {
     <div className="w-full flex justify-between gap-3 items-center px-5">
       <Link
         target="_blank"
-        href="https://lesalama-menu.vercel.app/"
+        href="https://www.lesalamamarrakech.com/menu/"
         className="w-full rounded-lg bg-white hover:bg-primary hover:text-white py-2 text-center shadow-md text-[12px]"
       >
         {t("navbar.cart")}
